@@ -60,10 +60,7 @@ namespace testcode
             linklabel.Text = "Welcome to programming world";
         }
 
-        protected void Unnamed_Click(object sender, EventArgs e)
-        {
-
-        }
+     
 
         protected void btnUpload_Click(object sender, EventArgs e)
         {
